@@ -98,3 +98,23 @@ header {
         margin-top: 270px;
     }
 }
+
+/* section formats and styles */
+
+#main-doc header {
+    text-align: left;
+    margin: 0px;
+}
+
+#main-doc article {
+    margin: 15px;
+    font-size: 0.96em;
+}
+
+section li {
+    margin: 15px 0px 15px 20px;
+}
+
+section p {
+    margin-top: 15px;
+}
