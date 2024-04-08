@@ -112,6 +112,18 @@ header {
     font-size: 0.96em;
 }
 
+section figure {
+    margin: 15px;
+    text-align: center;
+}
+
+section figure img {
+    margin: auto;
+    width:100%; 
+    max-width: 600px;
+    height:auto;
+}
+
 section li {
     margin: 15px 0px 15px 20px;
 }
