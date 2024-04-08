@@ -104,6 +104,7 @@ header {
 #main-doc header {
     text-align: left;
     margin: 0px;
+    color: #f09063
 }
 
 #main-doc article {
@@ -117,4 +118,10 @@ section li {
 
 section p {
     margin-top: 15px;
+}
+
+section h3 {
+    color: #ffc18e;
+    margin-top: 20px;
+    font-style: bold;
 }
